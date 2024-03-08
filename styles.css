@@ -1,10 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
 
 :root {
-  --primary-color: #12ac8e;
-  --primary-color-dark: #0d846c;
+  --primary-color: #010202;
+  --primary-color-dark: #000000;
   --primary-color-light: #e9f7f7;
-  --secondary-color: #6cbaf6;
+  --secondary-color: #f56236;
   --text-dark: #333333;
   --text-light: #767268;
   --white: #ffffff;
@@ -58,10 +58,10 @@ body {
 header {
   background-image: linear-gradient(
       to right,
-      rgba(18, 172, 142, 0.9),
-      rgba(18, 172, 142, 0.7)
+      rgba(36, 102, 187, 0.9),
+      rgba(20, 180, 148, 0.7)
     ),
-    url("assets/header.jpg");
+    url("assets/doc1.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;

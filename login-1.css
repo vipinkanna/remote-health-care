@@ -1,12 +1,15 @@
 body {
     font-family: Arial, sans-serif;
+    background-image: url("assets/doc1.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
     margin: 0;
     padding: 0;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: linear-gradient(to bottom right, #209CFF, #68E0CF);
 }
 h2{
     text-align: center;
