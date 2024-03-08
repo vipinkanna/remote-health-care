@@ -1,12 +1,15 @@
 body {
     font-family: Arial, sans-serif;
+    background-image: url("assets/doc1.jpg");
     margin: 0;
     padding: 0;
-    display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: linear-gradient(to bottom right, #209CFF, #68E0CF);
+    display: flex;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 label{
     font-size: 14px;
